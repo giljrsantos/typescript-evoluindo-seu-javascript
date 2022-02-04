@@ -1,0 +1,8 @@
+/node_modules
+/servidor-api/node_modules
+lista.json
+test.ts
+teste.ts
+yarn.lock
+package-lock.json
+github.txt
